@@ -2,7 +2,8 @@
 
 **INSTALL**
 
-* R CMD install themeakbar_0.1.2.tar.gz
+* ```R CMD install themeakbar_0.1.2.tar.gz```
+* ```theme_set(themeakbar())```
 * checkout sample plots in samples.
 
 **Citing info**
