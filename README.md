@@ -2,10 +2,9 @@
 
 **INSTALL**
 
-R CMD install themeakbar_0.1.2.tar.gz
-
-#### checkout sample plots in samples.
+*R CMD install themeakbar_0.1.2.tar.gz
+*checkout sample plots in samples.
 
 Have fun coding!\
-**Rahmad Akbar**
+Rahmad
 
