@@ -4,7 +4,7 @@
 
 * In your terminal: ```R CMD install themeakbar_0.1.2.tar.gz```
 * In Rstudio or your script: ```theme_set(themeakbar())```
-* checkout sample plots in ```gallery```.
+* checkout sample plots in ```gallery```. [Click to gallery](https://github.com/fibonaccirabbits/themeakbar/tree/master/gallery "themeakbar gallery").
 
 **Citing info**
 * DOI: 10.5281/zenodo.3362026 
