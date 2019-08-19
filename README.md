@@ -4,7 +4,7 @@
 
 * In your terminal: ```R CMD install themeakbar_0.1.2.tar.gz```
 * In Rstudio or your script: ```theme_set(themeakbar())```
-* checkout sample plots in samples.
+* checkout sample plots in ```gallery```.
 
 **Citing info**
 * DOI: 10.5281/zenodo.3362026 
