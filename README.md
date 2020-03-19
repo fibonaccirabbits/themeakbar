@@ -2,7 +2,7 @@
 
 **INSTALL**
 
-* In your terminal: ```R CMD install themeakbar_0.1.2.tar.gz```
+* In your terminal: ```R CMD INSTALL themeakbar_0.1.2.tar.gz```
 * In Rstudio or your script: ```theme_set(themeakbar())```
 * checkout sample plots in ```gallery```. [Click to gallery](https://github.com/fibonaccirabbits/themeakbar/tree/master/gallery "themeakbar gallery").
 
